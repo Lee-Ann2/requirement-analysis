@@ -45,3 +45,24 @@ Software development can be challenging to manage due to changing requirements, 
    - Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
    - Review and Approval: Reviewing the documented requirements with stakeholders to ensure accuracy and completeness.
    - Acceptance Criteria: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
+  
+
+# Types of Requirements.
+#
+
+# Functional
+
+ Describes on  what the system should do.
+
+ - Examples:
+   - Property search.
+   - User registration.
+   - User authentication.
+   - Booking system.
+  
+1. Booking System: Users should be able to book properties, view booking details, and manage their bookings.
+2. Property Listings: Display properties with essential details and images.
+3. User Authentication: Secure login and registration process for users.
+4. Search Properties: Users should be able to search for properties based on various criteria such as location, price, and availability.
+5. User Registration: New users should be able to create an account with personal details and login credentials.
+
