@@ -85,3 +85,11 @@ Describes how the system should be perfoming.
 4. Scalability: The system should be able to scale horizontally to handle increased traffic.
 5. Security: Ensure data encryption, secure login, and protect against common vulnerabilities. 
    
+
+# Use Case Diagrams.
+
+isual representation of interactions between users and the system.Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).Provide a clear visual representation of system functionalities.Help in identifying and organizing system requirements.Facilitate communication among stakeholders and development team.
+
+
+
+# Acceptance Criteria
