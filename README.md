@@ -12,6 +12,11 @@ The goal of SDLC is to minimize project risks through forward planning so that s
 Software development can be challenging to manage due to changing requirements, technology upgrades, and cross-functional collaboration. The software development lifecycle (SDLC) methodology provides a systematic management framework with specific deliverables at every stage of the software development process. As a result, all stakeholders agree on software development goals and requirements upfront and also have a plan to achieve those goals.
 
 - Improved risk management and cost estimation.
+   - It is process where the cost of the project.
 - Increased visibility of the development process for all stakeholders involved.
+   - The pace of the project and visible results in the period of the development.
 - Efficient estimation, planning, and scheduling.
-- Systematic software delivery and better customer satisfaction.
+   - Team is orchastrating a long term goal on how to tackle the project
+
+
+
