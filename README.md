@@ -52,7 +52,7 @@ Software development can be challenging to manage due to changing requirements, 
 
 # Functional
 
- Describes on  what the system should do.
+Describes on  what the system should do.
 
  - Examples:
    - Property search.
@@ -66,3 +66,22 @@ Software development can be challenging to manage due to changing requirements, 
 4. Search Properties: Users should be able to search for properties based on various criteria such as location, price, and availability.
 5. User Registration: New users should be able to create an account with personal details and login credentials.
 
+
+# Non-functional Requirements
+ 
+Describes how the system should be perfoming.
+ 
+ Examples: 
+ - Reliability.
+ - Performance.
+ - Usability.
+ - Scalability.
+ - Security.
+
+
+1. Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
+2. Performance: The system should load pages within 2 seconds and handle up to 1000 concurrent users.
+3. Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
+4. Scalability: The system should be able to scale horizontally to handle increased traffic.
+5. Security: Ensure data encryption, secure login, and protect against common vulnerabilities. 
+   
