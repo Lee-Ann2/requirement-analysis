@@ -19,4 +19,29 @@ Software development can be challenging to manage due to changing requirements, 
    - Team is orchastrating a long term goal on how to tackle the project
 
 
+# Key Activities in Requirement Analysis
 
+1. Requirement Gathering
+   - Interviews: Conducting interviews with stakeholders to gather detailed information about their needs and expectations.
+   - Document Analysis: Reviewing existing documentation and systems to understand current functionalities and requirements.
+   - Workshops: Organizing workshops with stakeholders to discuss and gather requirements.
+
+2. Requirement Elicitation
+   - Prototyping: Creating prototypes to help stakeholders visualize the system and refine their requirements.
+   - Brainstorming: Conducting brainstorming sessions to generate ideas and gather requirements.
+   - Focus Groups: Holding focus group discussions with selected stakeholders to gather detailed requirements.
+
+3. Requirement Documentation
+   - Use Cases: Creating use case diagrams to show interactions between users and the system.
+   - Requirement Specification Document: Creating a detailed document that lists all functional and non-functional requirements.
+   - User Stories: Writing user stories to describe functionalities from the user’s perspective.  
+
+4. Requirement Analysis and Modeling
+   - Modeling: Creating models (e.g., data flow diagrams, entity-relationship diagrams) to visualize and analyze requirements.
+   - Requirement Prioritization: Prioritizing requirements based on their importance and impact on the project.
+   - Feasibility Analysis: Assessing the feasibility of requirements in terms of technical, financial, and time constraints.
+
+5. Requirement Validation
+   - Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
+   - Review and Approval: Reviewing the documented requirements with stakeholders to ensure accuracy and completeness.
+   - Acceptance Criteria: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
