@@ -92,4 +92,18 @@ isual representation of interactions between users and the system.Use case diagr
 
 
 
-# Acceptance Criteria
+# Acceptance Criteria 
+
+Acceptance criteria are a set of conditions that must be met for a product, user story, or increment of work to be considered complete
+
+- Improve quality:
+  - They can be a useful tool to improve the quality of product backlog items.
+- Clarify expectations:
+  - They define the expected outcome of a user story.
+- Create a defense against scope creep:
+  - They help ensure that the development team is clear on what needs to be done.
+- Reduce ambiguity:
+  - They help prevent misunderstandings between the client, developers, and the rest of the team.
+  
+Acceptance criteria should be: Testable, Clear and concise, Written from the perspective of the user, and Written in the context of a real user's experience.
+Acceptance criteria templates can help ensure clarity and consistency across teams. A commonly used template is the Given/When/Then format, which outlines scenarios, actions, and outcomes in a logical sequence.
