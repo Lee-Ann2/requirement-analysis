@@ -85,10 +85,19 @@ Describes how the system should be perfoming.
 4. Scalability: The system should be able to scale horizontally to handle increased traffic.
 5. Security: Ensure data encryption, secure login, and protect against common vulnerabilities. 
    
+   ![alt text](alx-booking-uc.png)
 
 # Use Case Diagrams.
 
 isual representation of interactions between users and the system.Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).Provide a clear visual representation of system functionalities.Help in identifying and organizing system requirements.Facilitate communication among stakeholders and development team.
+A use case diagram is a visual representation of how users interact with a system, and is a key tool in the early stages of system design and development. Use case diagrams have several benefits, including:
+
+- Clarify system features: 
+  - Use case diagrams can help clarify the goals, features, and scope of a system, as well as the roles and responsibilities of users. 
+- Visualize system flow:
+  - Use case diagrams can help visualize the flow and behavior of the system. 
+- Help stakeholders understand:
+  - Use case diagrams help stakeholders understand the system's intended behavior and the roles of different actors. 
 
 
 
